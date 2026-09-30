@@ -1,5 +1,6 @@
 # Computer-vision-canny-edge-detection
 Overview
+
 This project demonstrates edge detection techniques in Digital Image Processing using three popular operators:
 
 Sobel Edge Detection
